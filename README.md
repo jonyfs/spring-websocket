@@ -17,6 +17,4 @@ A simple WebSocket example using Spring Boot
 
 ### How access?	
 
-* your local environment: http://localhost:8080/api
-
-* online: https://creditcardapi.herokuapp.com/api
+* your local environment: http://localhost:8080
